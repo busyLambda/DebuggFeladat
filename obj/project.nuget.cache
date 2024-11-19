@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pMmJPptGOhlxFGHOWzaj4iwmpYK5dfM4qrEQGx3N9KOzUPwR5mLX4xSvR42x0ZiY5xXykB81vzWlaQNWc+edlQ==",
+  "success": true,
+  "projectFilePath": "/home/smlan/Code/DebuggFeladat/DebuggFeladat/DebuggFeladat.csproj",
+  "expectedPackageFiles": [
+    "/home/smlan/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

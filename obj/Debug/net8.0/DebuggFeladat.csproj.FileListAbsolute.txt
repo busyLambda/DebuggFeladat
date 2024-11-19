@@ -1,0 +1,14 @@
+/home/smlan/Code/DebuggFeladat/DebuggFeladat/obj/Debug/net8.0/DebuggFeladat.GeneratedMSBuildEditorConfig.editorconfig
+/home/smlan/Code/DebuggFeladat/DebuggFeladat/obj/Debug/net8.0/DebuggFeladat.AssemblyInfoInputs.cache
+/home/smlan/Code/DebuggFeladat/DebuggFeladat/obj/Debug/net8.0/DebuggFeladat.AssemblyInfo.cs
+/home/smlan/Code/DebuggFeladat/DebuggFeladat/obj/Debug/net8.0/DebuggFeladat.csproj.CoreCompileInputs.cache
+/home/smlan/Code/DebuggFeladat/DebuggFeladat/bin/Debug/net8.0/DebuggFeladat
+/home/smlan/Code/DebuggFeladat/DebuggFeladat/bin/Debug/net8.0/DebuggFeladat.deps.json
+/home/smlan/Code/DebuggFeladat/DebuggFeladat/bin/Debug/net8.0/DebuggFeladat.runtimeconfig.json
+/home/smlan/Code/DebuggFeladat/DebuggFeladat/bin/Debug/net8.0/DebuggFeladat.dll
+/home/smlan/Code/DebuggFeladat/DebuggFeladat/bin/Debug/net8.0/DebuggFeladat.pdb
+/home/smlan/Code/DebuggFeladat/DebuggFeladat/obj/Debug/net8.0/DebuggFeladat.dll
+/home/smlan/Code/DebuggFeladat/DebuggFeladat/obj/Debug/net8.0/refint/DebuggFeladat.dll
+/home/smlan/Code/DebuggFeladat/DebuggFeladat/obj/Debug/net8.0/DebuggFeladat.pdb
+/home/smlan/Code/DebuggFeladat/DebuggFeladat/obj/Debug/net8.0/DebuggFeladat.genruntimeconfig.cache
+/home/smlan/Code/DebuggFeladat/DebuggFeladat/obj/Debug/net8.0/ref/DebuggFeladat.dll
